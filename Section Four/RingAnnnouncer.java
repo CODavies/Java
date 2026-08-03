@@ -14,7 +14,6 @@ public class RingAnnnouncer {
             }
         }
         System.out.println("With a professional record of " + result_count + " wins, he is the pride of the team.");
-
         return records;
     }
 
